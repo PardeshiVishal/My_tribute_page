@@ -1,0 +1,42 @@
+body{
+    background: #00FA9A;
+    margin: 20%;
+
+}
+
+#title{
+    text-align: center;
+    text-shadow:5px 5px  10px rgb(157, 202, 24)
+    
+}
+
+#img{
+    display: inline-block;
+    width: 100%;
+   padding-left: 347px;
+}
+
+#paragraph{
+    font-family: Gill Sans;
+    font-size: 17px;
+    text-align: center;
+}
+#page #heading #title2{
+    font-size: 35px;
+            color: white;
+            text-align: center;
+            text-shadow: 5px 5px 10px black;
+}
+#page #content{
+    background-color: rgb(46, 139, 87, 0.25);
+            box-shadow: 20px 20px 20px #98FB98;
+            font-family: Georgia;
+            padding: 25px 25px;
+            margin: 11px;
+            margin-top: 50px;
+}
+
+#tribute_link{
+    text-decoration: none;
+            color: black;
+}
